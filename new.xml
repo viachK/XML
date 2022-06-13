@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<general>
+	<name>
+		<first_name>Viacheslav</first_name>
+		<last_name>Kovryzhnykh</last_name>
+	</name>
+	<age>38</age>
+	<number_of_pets>1</number_of_pets>
+	<salary>450</salary>
+</general>
